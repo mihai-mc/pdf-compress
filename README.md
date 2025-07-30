@@ -1,6 +1,6 @@
-# Neural Geometric Parametrisation (NGP)
+# PDF Compress
 
-Research MSc project at The University of Edinburgh
+Quick PDF Tool to process a bunch of .pdf files
 
 ![Python Version](https://img.shields.io/badge/python-3.12-blue)
 ![License](https://img.shields.io/github/license/mihai-mc/pdf-compress)
